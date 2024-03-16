@@ -1,0 +1,10 @@
+flask_restful==0.3.10
+matplotlib==3.8.2
+numpy==1.26.4
+pandas==2.2.1
+Pillow==10.2.0
+plotly==5.18.0
+Requests==2.31.0
+scikit_learn==1.4.1.post1
+seaborn==0.13.2
+shap==0.44.1
